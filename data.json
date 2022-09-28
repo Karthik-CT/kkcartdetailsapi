@@ -1,27 +1,32 @@
 {
-  "shop_name": "ABCD",
-  "purchased": "yes",
   "cart_info": [
     {
-      "product_id": "16769241",
-      "Product_name": "Shirt",
-      "price_drop_info": {
-        "price_drop": true,
-        "discount": "10%",
-        "MRP_price": "538",
-        "Discount_price": "488"
-      }
+      "product_id": 16470009,
+      "product_name": "RP EQUAVE KID'S SHAMPOO , 300 ML",
+      "product_qty": 2,
+      "product_final_price": 47.125,
+      "product_image": "https://nazih.ae/media/catalog/product/6/4/6444412-1.jpg"
     },
-
     {
-      "product_id": "16763460",
-      "Product_name": "Jeans",
-      "price_drop_info": {
-        "price_drop": false,
-        "discount": "10%",
-        "MRP_price": "538",
-        "Discount_price": "488"
-      }
+      "product_id": 12570060,
+      "product_name": "ghd Air Professional Hair Dryer | 2100w",
+      "product_qty": 1,
+      "product_final_price": 582.3,
+      "product_image": "https://nazih.ae/media/catalog/product/2/5/2577007_-_air_hair_dryer.jpg"
+    },
+    {
+      "product_id": 12570008004,
+      "product_name": "ghd Ceramic Vented Radial Hair Brush | Size 1",
+      "product_qty": 3,
+      "product_final_price": 112,
+      "product_image": "https://nazih.ae/media/catalog/product/2/5/2577015-1.jpg"
+    },
+    {
+      "product_id": 12570008002,
+      "product_name": "ghd Ceramic Vented Radial Hair Brush | Size 3",
+      "product_qty": 2,
+      "product_final_price": 133.7,
+      "product_image": "https://nazih.ae/media/catalog/product/2/5/2577017-1.jpg"
     }
   ]
 }
