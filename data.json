@@ -1,32 +1,32 @@
 {
   "cart_info": [
     {
-      "product_id": 16470009,
-      "product_name": "RP EQUAVE KID'S SHAMPOO , 300 ML",
+      "product_id": 1230,
+      "product_name": "Mens White Shirt",
       "product_qty": 2,
-      "product_final_price": 47.125,
-      "product_image": "https://nazih.ae/media/catalog/product/6/4/6444412-1.jpg"
+      "product_final_price": 500,
+      "product_image": "https://m.media-amazon.com/images/I/71T3EQknkBL._AC_UL320_.jpg"
     },
     {
-      "product_id": 12570060,
-      "product_name": "ghd Air Professional Hair Dryer | 2100w",
+      "product_id": 1231,
+      "product_name": "Mens slim fit red colored shirt",
       "product_qty": 1,
-      "product_final_price": 582.3,
-      "product_image": "https://nazih.ae/media/catalog/product/2/5/2577007_-_air_hair_dryer.jpg"
+      "product_final_price": 899,
+      "product_image": "https://4.imimg.com/data4/BU/FC/MY-14454681/mens-dress-shirts-250x250.jpg"
     },
     {
-      "product_id": 12570008004,
-      "product_name": "ghd Ceramic Vented Radial Hair Brush | Size 1",
-      "product_qty": 3,
-      "product_final_price": 112,
-      "product_image": "https://nazih.ae/media/catalog/product/2/5/2577015-1.jpg"
+      "product_id": 1520,
+      "product_name": "Pack of 3 Jeans for Men slim fit",
+      "product_qty": 1,
+      "product_final_price": 1999,
+      "product_image": "https://assetscdn1.paytm.com/images/catalog/product/A/AP/APPRAGZO-MENS-MRISH4246056E1BF97D/1626443017953_10.jpg"
     },
     {
-      "product_id": 12570008002,
-      "product_name": "ghd Ceramic Vented Radial Hair Brush | Size 3",
+      "product_id": 1265,
+      "product_name": "Ray Ban rounded goggles for Men",
       "product_qty": 2,
-      "product_final_price": 133.7,
-      "product_image": "https://nazih.ae/media/catalog/product/2/5/2577017-1.jpg"
+      "product_final_price": 1599,
+      "product_image": "https://india.ray-ban.com/pub/media/wysiwyg/Rb-M-header_menu_opti/black_friday_2017_sunglasses_4-min.png"
     }
   ]
 }
