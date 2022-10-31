@@ -1,7 +1,7 @@
 const express = require("express");
 const app = express();
 const importData = require("./data.json");
-const importData2 = require("./data.json");
+const importData2 = require("./data1.json");
 let port = process.env.PORT || 3000;
 
 app.get("/", (req, res) => {
