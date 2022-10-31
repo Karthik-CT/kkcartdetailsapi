@@ -12,7 +12,7 @@ app.get("/cartdetails", (req, res) => {
   res.send(importData);
 });
 
-app.get("/cartdetails/id/{kk1611}", (req, res) => {
+app.get("/cartdetails?id=kk1611", (req, res) => {
   res.send(importData2);
 });
 
