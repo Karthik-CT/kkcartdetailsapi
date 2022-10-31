@@ -11,6 +11,10 @@ app.get("/cartdetails", (req, res) => {
   res.send(importData);
 });
 
+app.get("/cartdetails/?id=${kk1611}", (req, res) => {
+  res.send(importData);
+});
+
 app.listen(port, () => {
   console.log("Example is listening on port http://localhost:" + port);
 });
