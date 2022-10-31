@@ -1,6 +1,7 @@
 const express = require("express");
 const app = express();
 const importData = require("./data.json");
+const importData2 = require("./data.json");
 let port = process.env.PORT || 3000;
 
 app.get("/", (req, res) => {
@@ -12,7 +13,7 @@ app.get("/cartdetails", (req, res) => {
 });
 
 app.get("/cartdetails/?id=${kk1611}", (req, res) => {
-  res.send(importData);
+  res.send(importData2);
 });
 
 app.listen(port, () => {
