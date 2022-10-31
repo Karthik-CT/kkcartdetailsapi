@@ -7,7 +7,7 @@ app.get("/", (req, res) => {
   res.send("Hello World!");
 });
 
-app.get("/cartdetails", (req, res) => {
+app.get("/cartdetails?id=kk1611", (req, res) => {
   res.send(importData);
 });
 
